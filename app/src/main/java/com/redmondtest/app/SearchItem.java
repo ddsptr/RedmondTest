@@ -1,14 +1,14 @@
-package com.redmondtest.app.dto;
+package com.redmondtest.app;
 
 /**
  * Created by dds on 21.07.15.
  */
-public class TextItem {
+public class SearchItem {
     private String url;
     private String title;
     private String content;
 
-    public TextItem(String url, String title, String content) {
+    public SearchItem(String url, String title, String content) {
         this.url = url;
         this.title = title;
         this.content = content;
