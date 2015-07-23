@@ -1,0 +1,185 @@
+{
+  "responseData": {
+    "results": [
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "450",
+        "height": "401",
+        "imageId": "ANd9GcQiedTKjKHgfMxvXdGKdBaWHa4K-5VT2FESnyKwQkXYxUIx3gJu5BLzRvY",
+        "tbWidth": "127",
+        "tbHeight": "113",
+        "unescapedUrl": "https://ageofex.files.wordpress.com/2012/11/hidden-text-example-3.gif",
+        "url": "https://ageofex.files.wordpress.com/2012/11/hidden-text-example-3.gif",
+        "visibleUrl": "ageofex.wordpress.com",
+        "title": "\u003cb\u003eText\u003c/b\u003e or no \u003cb\u003etext\u003c/b\u003e, that is the question? | The Age of Exploration Blog",
+        "titleNoFormatting": "Text or no text, that is the question? | The Age of Exploration Blog",
+        "originalContextUrl": "https://ageofex.wordpress.com/2012/11/05/text-or-no-text-that-is-the-question/",
+        "content": "A lot of \u003cb\u003etext\u003c/b\u003e is normally used",
+        "contentNoFormatting": "A lot of text is normally used",
+        "tbUrl": "http://t0.gstatic.com/images?q\u003dtbn:ANd9GcQiedTKjKHgfMxvXdGKdBaWHa4K-5VT2FESnyKwQkXYxUIx3gJu5BLzRvY"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "3544",
+        "height": "2513",
+        "imageId": "ANd9GcQHbo16rSqPm1644WFtXYKaU9GQBcpND3ZE5VBwdpynj-ZE5MCeUjS1Ja5_",
+        "tbWidth": "150",
+        "tbHeight": "106",
+        "unescapedUrl": "http://www.truthcontrol.com/files/truthcontrol/images/794.gif",
+        "url": "http://www.truthcontrol.com/files/truthcontrol/images/794.gif",
+        "visibleUrl": "www.truthcontrol.com",
+        "title": "Early Reproduction of the Latin \u003cb\u003eText\u003c/b\u003e | Truth Control",
+        "titleNoFormatting": "Early Reproduction of the Latin Text | Truth Control",
+        "originalContextUrl": "http://www.truthcontrol.com/pictures/early-reproduction-latin-text",
+        "content": "of the Latin \u003cb\u003eText\u003c/b\u003e",
+        "contentNoFormatting": "of the Latin Text",
+        "tbUrl": "http://t0.gstatic.com/images?q\u003dtbn:ANd9GcQHbo16rSqPm1644WFtXYKaU9GQBcpND3ZE5VBwdpynj-ZE5MCeUjS1Ja5_"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "609",
+        "height": "297",
+        "imageId": "ANd9GcTJuTw6Dk7E41ZU3x8ovexbBRs7DcGQhp1LVtYHt8sJUmSmQlGq11eakGU",
+        "tbWidth": "136",
+        "tbHeight": "66",
+        "unescapedUrl": "http://www.antigrain.com/research/font_rasterization/msword_text_rendering.png",
+        "url": "http://www.antigrain.com/research/font_rasterization/msword_text_rendering.png",
+        "visibleUrl": "www.antigrain.com",
+        "title": "Anti-Grain Geometry - Texts Rasterization Exposures",
+        "titleNoFormatting": "Anti-Grain Geometry - Texts Rasterization Exposures",
+        "originalContextUrl": "http://www.antigrain.com/research/font_rasterization/",
+        "content": "Below there is a \u003cb\u003etext\u003c/b\u003e as it",
+        "contentNoFormatting": "Below there is a text as it",
+        "tbUrl": "http://t0.gstatic.com/images?q\u003dtbn:ANd9GcTJuTw6Dk7E41ZU3x8ovexbBRs7DcGQhp1LVtYHt8sJUmSmQlGq11eakGU"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "1383",
+        "height": "2144",
+        "imageId": "ANd9GcQix0TSH_XkbyY2-EIj1xsAsULzfWNJHMrWIEDX1pFJYi3tndZhj-dE3DQ",
+        "tbWidth": "97",
+        "tbHeight": "150",
+        "unescapedUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Example_of_french-spaced_text_-_1874.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Example_of_french-spaced_text_-_1874.jpg",
+        "visibleUrl": "en.wikipedia.org",
+        "title": "Sentence spacing - Wikipedia, the free encyclopedia",
+        "titleNoFormatting": "Sentence spacing - Wikipedia, the free encyclopedia",
+        "originalContextUrl": "https://en.wikipedia.org/wiki/Sentence_spacing",
+        "content": "French spaced typeset \u003cb\u003etext\u003c/b\u003e",
+        "contentNoFormatting": "French spaced typeset text",
+        "tbUrl": "http://t2.gstatic.com/images?q\u003dtbn:ANd9GcQix0TSH_XkbyY2-EIj1xsAsULzfWNJHMrWIEDX1pFJYi3tndZhj-dE3DQ"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "1226",
+        "height": "753",
+        "imageId": "ANd9GcSwtZcUCEn30xc-WbxD0pMJHRYpb5gJOVuHOyGJ-frQDm4kv8liAueZLKc1",
+        "tbWidth": "150",
+        "tbHeight": "92",
+        "unescapedUrl": "http://www.moderntypography.com/Typedesign/Publico/PublicoTextRegular.gif",
+        "url": "http://www.moderntypography.com/Typedesign/Publico/PublicoTextRegular.gif",
+        "visibleUrl": "www.moderntypography.com",
+        "title": "Publico\u003cb\u003eText\u003c/b\u003eRegular.gif",
+        "titleNoFormatting": "PublicoTextRegular.gif",
+        "originalContextUrl": "http://www.moderntypography.com/Typedesign/Publico/PageOne.html",
+        "content": "Publico \u003cb\u003eText\u003c/b\u003e",
+        "contentNoFormatting": "Publico Text",
+        "tbUrl": "http://t2.gstatic.com/images?q\u003dtbn:ANd9GcSwtZcUCEn30xc-WbxD0pMJHRYpb5gJOVuHOyGJ-frQDm4kv8liAueZLKc1"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "1242",
+        "height": "1029",
+        "imageId": "ANd9GcSeZynMpqjPlPf3KdTmhJ9GgeQ1J40QS5x-K6oRQelMUwtRo8UlhDTDOht-",
+        "tbWidth": "150",
+        "tbHeight": "124",
+        "unescapedUrl": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dan'l_Druce,_Blacksmith_-_Illustrated_London_News,_November_18,_1876_-_text.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Dan%27l_Druce,_Blacksmith_-_Illustrated_London_News,_November_18,_1876_-_text.png",
+        "visibleUrl": "commons.wikimedia.org",
+        "title": "File:Dan\u0026#39;l Druce, Blacksmith - Illustrated London News, November \u003cb\u003e...\u003c/b\u003e",
+        "titleNoFormatting": "File:Dan\u0026#39;l Druce, Blacksmith - Illustrated London News, November ...",
+        "originalContextUrl": "https://commons.wikimedia.org/wiki/File:Dan'l_Druce,_Blacksmith_-_Illustrated_London_News,_November_18,_1876_-_text.png",
+        "content": "File:Dan\u0026#39;l Druce,",
+        "contentNoFormatting": "File:Dan\u0026#39;l Druce,",
+        "tbUrl": "http://t2.gstatic.com/images?q\u003dtbn:ANd9GcSeZynMpqjPlPf3KdTmhJ9GgeQ1J40QS5x-K6oRQelMUwtRo8UlhDTDOht-"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "1383",
+        "height": "2271",
+        "imageId": "ANd9GcQ9sSAIYqI8xUutWAx8JwPIMzBxql_S1OSFcASNF6PZjFRca-eS5zHL-PvB",
+        "tbWidth": "91",
+        "tbHeight": "150",
+        "unescapedUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Example_of_french-spaced_text_(1874).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Example_of_french-spaced_text_(1874).jpg",
+        "visibleUrl": "commons.wikimedia.org",
+        "title": "File:Example of french-spaced \u003cb\u003etext\u003c/b\u003e (1874).jpg - Wikimedia Commons",
+        "titleNoFormatting": "File:Example of french-spaced text (1874).jpg - Wikimedia Commons",
+        "originalContextUrl": "https://commons.wikimedia.org/wiki/File:Example_of_french-spaced_text_(1874).jpg",
+        "content": "french-spaced \u003cb\u003etext\u003c/b\u003e (1874).",
+        "contentNoFormatting": "french-spaced text (1874).",
+        "tbUrl": "http://t1.gstatic.com/images?q\u003dtbn:ANd9GcQ9sSAIYqI8xUutWAx8JwPIMzBxql_S1OSFcASNF6PZjFRca-eS5zHL-PvB"
+      },
+      {
+        "GsearchResultClass": "GimageSearch",
+        "width": "1662",
+        "height": "786",
+        "imageId": "ANd9GcRNVDH-Bk5OvO_y8kxGenw7r308mC_sXdIwLHgF-RL-A4vA_z-ckSahEzJQ",
+        "tbWidth": "150",
+        "tbHeight": "71",
+        "unescapedUrl": "http://www.themacroscope.org/wp-content/uploads/2013/10/fig-1-war-and-peace.png",
+        "url": "http://www.themacroscope.org/wp-content/uploads/2013/10/fig-1-war-and-peace.png",
+        "visibleUrl": "www.themacroscope.org",
+        "title": "Basic \u003cb\u003eText\u003c/b\u003e Mining: Word Clouds, their Limitations, and Moving \u003cb\u003e...\u003c/b\u003e",
+        "titleNoFormatting": "Basic Text Mining: Word Clouds, their Limitations, and Moving ...",
+        "originalContextUrl": "http://www.themacroscope.org/?page_id\u003d362",
+        "content": "A Wordle.",
+        "contentNoFormatting": "A Wordle.",
+        "tbUrl": "http://t0.gstatic.com/images?q\u003dtbn:ANd9GcRNVDH-Bk5OvO_y8kxGenw7r308mC_sXdIwLHgF-RL-A4vA_z-ckSahEzJQ"
+      }
+    ],
+    "cursor": {
+      "resultCount": "120 000 000",
+      "pages": [
+        {
+          "start": "0",
+          "label": 1
+        },
+        {
+          "start": "8",
+          "label": 2
+        },
+        {
+          "start": "16",
+          "label": 3
+        },
+        {
+          "start": "24",
+          "label": 4
+        },
+        {
+          "start": "32",
+          "label": 5
+        },
+        {
+          "start": "40",
+          "label": 6
+        },
+        {
+          "start": "48",
+          "label": 7
+        },
+        {
+          "start": "56",
+          "label": 8
+        }
+      ],
+      "estimatedResultCount": "120000000",
+      "currentPageIndex": 0,
+      "moreResultsUrl": "http://www.google.com/images?oe\u003dutf8\u0026ie\u003dutf8\u0026source\u003duds\u0026start\u003d0\u0026hl\u003dru\u0026q\u003d%22text%22",
+      "searchResultTime": "0,09"
+    }
+  },
+  "responseDetails": null,
+  "responseStatus": 200
+}
